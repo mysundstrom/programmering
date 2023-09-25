@@ -8,6 +8,8 @@ if tal <100:
 if tal <1000:
     print("talet är minst fyrsiffrigt")
 
+print("tack och hej")
+
 
 
 
